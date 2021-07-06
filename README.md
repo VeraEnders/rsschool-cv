@@ -1,1 +1,1 @@
-# rsschool-cv
+https://veraenders.github.io/rsschool-cv/cv
