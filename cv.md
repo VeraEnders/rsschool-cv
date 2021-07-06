@@ -11,3 +11,15 @@ GitHub: [VeraEnders](http://github.com/VeraEnders)
 * Git
 * Adobe Photoshop, Illustrator, InDesign
 * Figma
+
+## Education:
+**2020 - Present** - JavaScript/Front-end (Rolling Scopes School)
+
+**2019** - HTML5 and CSS (edX)
+
+**2018** - Python (PyLadies)
+
+**2015-2017** - Supply Chain Fundamentals, Analytics, Design and Dynamics (edX)
+
+## English 
+Pre-intermediate A2
